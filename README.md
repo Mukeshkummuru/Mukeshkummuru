@@ -1,6 +1,6 @@
-# Hi 👋, I'm Sai Mukesh
+# Hi 👋, I'm SAI MUKESH
 
-### 🐍 Python Full-Stack Developer | Backend Enthusiast | 2024 CSE Graduate
+### 🐍 Python Developer | Full-Stack Developer | CSE Graduate
 
 Building scalable web applications with **Python, FastAPI, Django, React, MongoDB, and SQL**.
 
@@ -14,6 +14,14 @@ Building scalable web applications with **Python, FastAPI, Django, React, MongoD
 * 🚀 Love building REST APIs and solving real-world problems
 * 📚 Currently learning System Design, Docker, and Cloud Technologies
 * 💼 Open to Python Backend & Full-Stack Developer Opportunities
+
+---
+
+# 🤝 Connect With Me
+
+* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/mukesh-kummuru-b25b6429b/)
+* 🌐 Portfolio: [https://YOUR_PORTFOLIO_URL](https://mukeshportfolio-wheat.vercel.app/)
+* 📧 Email: [YOUR_EMAIL@gmail.com](mukesh.kummuru@gmail.com)
 
 ---
 
@@ -53,67 +61,26 @@ Building scalable web applications with **Python, FastAPI, Django, React, MongoD
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🛒 GANGS – MERN E-Commerce Platform
-
-* JWT Authentication
-* Product Search & Filtering
-* Wishlist & Shopping Cart
-* Responsive Design
-* MERN Stack
+Full-stack e-commerce application built with **React, Node.js, Express, and MongoDB** featuring **JWT authentication, product search & filtering, shopping cart, wishlist, and responsive UI**.
 
 ---
 
 ### 💬 Chit Chat – Real-Time Chat Application
-
-* Flutter
-* FastAPI
-* MongoDB
-* Firebase Authentication
-* WebSockets
-* JWT Authentication
+Mobile chat application built with **Flutter, FastAPI, MongoDB, and Firebase** supporting **OTP authentication, JWT, WebSockets for real-time messaging, and profile management**.
 
 ---
 
 ### 💰 Money Ledger
-
-* Django REST Framework
-* React
-* MySQL
-* JWT Authentication
-* Expense & Balance Tracking
+Personal finance management application built with **React, Django REST Framework, and MySQL** enabling **expense tracking, balance calculations, JWT authentication, and CRUD operations**.
 
 ---
 
-### 🌍 NRSC (ISRO) Internship
+### 🌍 NRSC (ISRO) Internship Project
+Developed a **Python-based satellite data processing solution** using **Rasterio, NumPy, Pandas, and Dask** to improve **spatio-temporal gap filling and large-scale geospatial data analysis**.
 
-**Spatio-Temporal Gap Filling of Satellite Data**
-
-* Python
-* Rasterio
-* Pandas
-* NumPy
-* Dask
-* Data Processing & Visualization
-
----
-
-# 🌱 Currently Learning
-
-* LLM
-* Docker
-* Cloud Technologies
-* GEN AI
-* Advanced Backend Development
-
----
-
-# 🤝 Connect With Me
-
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/mukesh-kummuru-b25b6429b/)
-* 🌐 Portfolio: [https://YOUR_PORTFOLIO_URL](https://mukeshportfolio-wheat.vercel.app/)
-* 📧 Email: [YOUR_EMAIL@gmail.com](mukesh.kummuru@gmail.com)
 
 ---
 
