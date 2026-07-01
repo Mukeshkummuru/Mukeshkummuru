@@ -19,9 +19,9 @@ Building scalable web applications with **Python, FastAPI, Django, React, MongoD
 
 # 🤝 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/mukesh-kummuru-b25b6429b/)
-* 🌐 Portfolio: [https://YOUR_PORTFOLIO_URL](https://mukeshportfolio-wheat.vercel.app/)
-* 📧 Email: [YOUR_EMAIL@gmail.com](mukesh.kummuru@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/mukesh-kummuru-b25b6429b/
+* 🌐 Portfolio: https://mukeshportfolio-wheat.vercel.app/
+* 📧 Email: mukesh.kummuru@gmail.com
 
 ---
 
